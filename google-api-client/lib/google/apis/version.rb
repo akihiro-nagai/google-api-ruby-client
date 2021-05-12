@@ -16,7 +16,7 @@ require 'open3'
 
 module Google
   module Apis
-    # Client library version
+    # Client library version (test)
     VERSION = "0.53.0".freeze
   end
 end
